@@ -236,7 +236,7 @@ Last change: 15/01/2018
 	#post-nav-next .fa{margin-left:15px;}
 	#post-nav-prev .fa{margin-right:15px;}
 	
-	.page-numbers:not(.next):not(.prev){display:none;}
+	.page-numbers:not(.next):not(.prev){display:none; color:pink!important;}
 
 	
 	/* -- 4.9) post social icons -- */
