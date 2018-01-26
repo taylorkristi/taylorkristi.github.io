@@ -3,7 +3,7 @@ jQuery(function($) {
 	var contact_form = $('#contact-form');
 	
 	/* message used on contact submit success */
-	var success_msg = 'Your enquiry has been successfully submitted';
+	var success_msg = 'Your inquiry has been successfully submitted';
 	
 	/* message used for error of the contact form */
 	var general_error_msg = 'Some of the information submitted is incorrect';
