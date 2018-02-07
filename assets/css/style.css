@@ -596,3 +596,15 @@ Last change: 15/01/2018
 
 	.column-item{height:40px;text-align:center;background-color:#242424;}
 	.column-item p{font-size:13px;color:#ffffff;font-family: 'Montserrat', sans-serif;font-weight:400;padding-top:11px;}
+
+	/*Carousel Updates*/
+	.carousel-item {
+		max-height: 100%;
+		max-width: auto;
+		overflow: hidden;
+	}
+
+	/*Font Awesome Resize*/
+.fab {
+	font-size: 40px;
+}
