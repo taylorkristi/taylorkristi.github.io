@@ -429,8 +429,8 @@ Last change: 15/01/2018
 	.block-section .section-inner{padding-bottom:30px;}
 
 	.block-item{margin-bottom:50px;}
-	.block-item-icon{width:100px;height:100px;border:1px solid #eee
-;text-align:center;}
+	/*.block-item-icon{width:100px;height:100px;border:1px solid #eee
+;text-align:center; margin: auto;}*/
 	.block-item-icon .fa{color:#292a2b;font-size:35px;margin-top:32px;}
 	.block-item h3{font-size:18px;color:#111111;line-height:22px;}
 	.block-item p,.block-item a{font-size:14px;color:#888888;line-height:22px;font-family:'Open Sans', sans-serif;font-weight:400;text-decoration:none;margin-top:5px;display:block;}
