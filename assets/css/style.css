@@ -230,12 +230,12 @@ Last change: 15/01/2018
 	
 	/* -- 4.8) post navigation -- */
 	
-	.post-navigation{padding-top:10px;margin-top:10px;border-top:1px solid #eeeeee;text-align:center;}
+	.post-navigation{padding-top:10px;margin-top:10px;border-top:1px solid #eeeeee;text-align:center; text-decoration:none;}
 	.post-nav-item{float:left;display:block;text-decoration:none;}
 	#post-nav-next{float:right;text-align:right;}
 	.post-nav-item p,.post-nav-item h3{letter-spacing:1.5px; margin-left:100px; margin-right:100px;}
-	.post-nav-item p{font-size:13px;color:#111111;letter-spacing:1px;text-transform:uppercase;}
-	.post-nav-item .fa{font-size:15px;}
+	.post-nav-item p{font-size:13px;color:#111111;letter-spacing:1px;text-transform:uppercase; text-decoration: none;}
+	.post-nav-item .fa{font-size:15px;padding-left:20px;padding-right:20px;}
 	#post-nav-next .fa{margin-left:15px;}
 	#post-nav-prev .fa{margin-right:15px;}
 	
