@@ -68,6 +68,9 @@ Last change: 15/01/2018
 	
 	.section-inner{padding:80px 0;border-top: 1px solid #eeeeee;}
 	.no-border{border:0;}
+
+	.photo-center{ text-align: center; margin-top: 1em; }
+	.font-awesome { font-size: 1.5em; }
 	
 	
 /* --- 2) HEADER --- */
