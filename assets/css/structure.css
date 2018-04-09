@@ -36,6 +36,8 @@ body {-webkit-print-color-adjust:exact;font-size:13px;line-height:1.5;color:#333
 .image{height:auto;display:block;max-width:100%;}
 .rounded-image{border-radius:50%;overflow:hidden;}
 
+.jumboText {padding-bottom: 15px; margin-bottom: 10px; text-overflow: none;line-height: 35px }
+
 
 /* -- theme success / error messages -- */
 
